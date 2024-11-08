@@ -1,0 +1,39 @@
+/* Стили для карты погоды */
+.weather-card {
+  background-color: lightblue;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* Стили для выбора города */
+.city-select {
+  margin: 20px;
+}
+
+/* Стили для выбора единиц измерения */
+.unit-selector {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Стили для поиска города */
+.city-search {
+  margin-top: 20px;
+  padding: 5px;
+}
+
+/* Стили для кнопки добавления в избранное */
+.favorite-button {
+  margin-left: 10px;
+  font-size: 0.8rem;
+}
+
+/* Стили для карточки с погодой */
+.card-header {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.card-body p {
+  font-size: 0.9rem;
+}
